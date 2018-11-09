@@ -1,4 +1,4 @@
-# La Cueva Historic Distric 
+# La Cueva Historic Distric Initial Notes/Outline
 
 * Romero Hacienda
   * This is an adobe building tthat served as a community center.  The Hacienda would house people from the area for social events.
